@@ -1,0 +1,4 @@
+there are some filters in spring security
+1 .Basic check filters : CORS, CSRF, ..
+2. AuthenticationFilters
+3. AuthorizationFilters
